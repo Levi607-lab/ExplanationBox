@@ -1,5 +1,7 @@
 # Audio Guide Box
 
+![Audio Guide Box Assembled](pictures/assembled.jpg)
+
 This project is a simple, self-contained **audio guide box**, powered by an Arduino, an OLED display, and a DFPlayer Mini MP3 module.
 
 It functions like an audio guide system found in museums or exhibitions, with **pre-recorded audio tracks**, **language selection**, **volume control**, and a **built-in screen** for feedback.
