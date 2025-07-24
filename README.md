@@ -48,9 +48,15 @@ Bearbeiten
 
 ---
 
-## 🖼️ Images
+🤖 Need Help?
+Stuck or something not working?
+LLMs like ChatGPT can assist you with:
 
-You can add images of the final build or wiring from the `/pictures` folder like this:
+Debugging code
 
-```markdown
-![Audio Guide Box Assembled](pictures/assembled.jpg)
+Wiring diagrams
+
+Code improvements or extensions
+
+
+Enjoy building your custom audio guide box!
